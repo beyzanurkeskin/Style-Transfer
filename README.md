@@ -35,11 +35,9 @@ cd neural-style-transfer
 
 3. Place your content images in the `content_images` directory and your style images in the `style_images` directory.
 
-4. Run the main script to perform style transfer and contrastive learning:
+4. Run the ipynb notebook to perform style transfer and contrastive learning:
 
-```
-python main.py
-```
+
 
 5. The stylized images will be saved in the `output_stylized_images` directory.
 
